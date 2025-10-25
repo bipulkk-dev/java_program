@@ -1,1 +1,15 @@
-/bin/
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Compiled files
+bin/
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files (optional)
+.DS_Store
